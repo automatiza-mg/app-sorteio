@@ -1,0 +1,193 @@
+﻿_id,unidade,mes,ano,grau,escore,predicao_obito,saidas_rn,obitos_ocorridos,obitos_esperados
+1,HJK,janeiro,2021,I,0 a 5,"9,3",0,0,0
+2,HJK,janeiro,2021,II,6 a 10,"55,9",2,0,"1,12"
+3,HJK,janeiro,2021,III,11 a 5 ,"73,1",2,0,"1,46"
+4,HJK,janeiro,2021,IV,> 15,100,0,0,0
+5,HJK,fevereiro,2021,I,0 a 5,"9,3",1,0,"0,09"
+6,HJK,fevereiro,2021,II,6 a 10,"55,9",1,0,"0,56"
+7,HJK,fevereiro,2021,III,11 a 5 ,"73,1",0,0,0
+8,HJK,fevereiro,2021,IV,> 15,100,0,0,0
+9,HJK,março,2021,I,0 a 5,"9,3",0,0,0
+10,HJK,março,2021,II,6 a 10,"55,9",0,0,0
+11,HJK,março,2021,III,11 a 5 ,"73,1",0,0,0
+12,HJK,março,2021,IV,> 15,100,0,0,0
+13,HJK,abril,2021,I,0 a 5,"9,3",1,0,"0,09"
+14,HJK,abril,2021,II,6 a 10,"55,9",1,0,"0,56"
+15,HJK,abril,2021,III,11 a 5 ,"73,1",0,0,0
+16,HJK,abril,2021,IV,> 15,100,0,0,0
+17,HJK,maio,2021,I,0 a 5,"9,3",2,0,"0,19"
+18,HJK,maio,2021,II,6 a 10,"55,9",0,0,0
+19,HJK,maio,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+20,HJK,maio,2021,IV,> 15,100,0,0,0
+21,HJK,junho,2021,I,0 a 5,"9,3",0,0,0
+22,HJK,junho,2021,II,6 a 10,"55,9",0,0,0
+23,HJK,junho,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+24,HJK,junho,2021,IV,> 15,100,0,0,0
+25,HJK,julho,2021,I,0 a 5,"9,3",1,0,"0,09"
+26,HJK,julho,2021,II,6 a 10,"55,9",0,0,0
+27,HJK,julho,2021,III,11 a 5 ,"73,1",0,0,0
+28,HJK,julho,2021,IV,> 15,100,1,1,1
+29,HJK,agosto,2021,I,0 a 5,"9,3",1,0,"0,09"
+30,HJK,agosto,2021,II,6 a 10,"55,9",1,0,"0,56"
+31,HJK,agosto,2021,III,11 a 5 ,"73,1",0,0,0
+32,HJK,agosto,2021,IV,> 15,100,0,0,0
+33,HJK,setembro,2021,I,0 a 5,"9,3",0,0,0
+34,HJK,setembro,2021,II,6 a 10,"55,9",0,0,0
+35,HJK,setembro,2021,III,11 a 5 ,"73,1",0,0,0
+36,HJK,setembro,2021,IV,> 15,100,0,0,0
+37,HJK,outubro,2021,I,0 a 5,"9,3",0,0,0
+38,HJK,outubro,2021,II,6 a 10,"55,9",0,0,0
+39,HJK,outubro,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+40,HJK,outubro,2021,IV,> 15,100,0,0,0
+41,HJK,novembro,2021,I,0 a 5,"9,3",0,0,0
+42,HJK,novembro,2021,II,6 a 10,"55,9",0,0,0
+43,HJK,novembro,2021,III,11 a 5 ,"73,1",0,0,0
+44,HJK,novembro,2021,IV,> 15,100,0,0,0
+45,HJK,dezembro,2021,I,0 a 5,"9,3",0,0,0
+46,HJK,dezembro,2021,II,6 a 10,"55,9",0,0,0
+47,HJK,dezembro,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+48,HJK,dezembro,2021,IV,> 15,100,0,0,0
+49,HRAD,janeiro,2021,I,0 a 5,"9,3",3,0,"0,28"
+50,HRAD,janeiro,2021,II,6 a 10,"55,9",3,1,"1,68"
+51,HRAD,janeiro,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+52,HRAD,janeiro,2021,IV,> 15,100,0,0,0
+53,HRAD,fevereiro,2021,I,0 a 5,"9,3",5,0,"0,47"
+54,HRAD,fevereiro,2021,II,6 a 10,"55,9",1,1,"0,56"
+55,HRAD,fevereiro,2021,III,11 a 5 ,"73,1",0,0,0
+56,HRAD,fevereiro,2021,IV,> 15,100,0,0,0
+57,HRAD,março,2021,I,0 a 5,"9,3",6,1,"0,56"
+58,HRAD,março,2021,II,6 a 10,"55,9",1,1,"0,56"
+59,HRAD,março,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+60,HRAD,março,2021,IV,> 15,100,1,1,1
+61,HRAD,abril,2021,I,0 a 5,"9,3",12,0,"1,12"
+62,HRAD,abril,2021,II,6 a 10,"55,9",3,0,"1,68"
+63,HRAD,abril,2021,III,11 a 5 ,"73,1",0,0,0
+64,HRAD,abril,2021,IV,> 15,100,0,0,0
+65,HRAD,maio,2021,I,0 a 5,"9,3",7,0,"0,65"
+66,HRAD,maio,2021,II,6 a 10,"55,9",1,0,"0,56"
+67,HRAD,maio,2021,III,11 a 5 ,"73,1",0,0,0
+68,HRAD,maio,2021,IV,> 15,100,0,0,0
+69,HRAD,junho,2021,I,0 a 5,"9,3",9,0,"0,84"
+70,HRAD,junho,2021,II,6 a 10,"55,9",3,0,"1,68"
+71,HRAD,junho,2021,III,11 a 5 ,"73,1",0,0,0
+72,HRAD,junho,2021,IV,> 15,100,0,0,0
+73,HRAD,julho,2021,I,0 a 5,"9,3",11,0,"1,02"
+74,HRAD,julho,2021,II,6 a 10,"55,9",1,1,"0,56"
+75,HRAD,julho,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+76,HRAD,julho,2021,IV,> 15,100,0,0,0
+77,HRAD,agosto,2021,I,0 a 5,"9,3",10,1,"0,93"
+78,HRAD,agosto,2021,II,6 a 10,"55,9",0,0,0
+79,HRAD,agosto,2021,III,11 a 5 ,"73,1",0,0,0
+80,HRAD,agosto,2021,IV,> 15,100,0,0,0
+81,HRAD,setembro,2021,I,0 a 5,"9,3",11,0,"1,02"
+82,HRAD,setembro,2021,II,6 a 10,"55,9",0,0,0
+83,HRAD,setembro,2021,III,11 a 5 ,"73,1",0,0,0
+84,HRAD,setembro,2021,IV,> 15,100,0,0,0
+85,HRAD,outubro,2021,I,0 a 5,"9,3",9,0,"0,84"
+86,HRAD,outubro,2021,II,6 a 10,"55,9",3,1,"1,68"
+87,HRAD,outubro,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+88,HRAD,outubro,2021,IV,> 15,100,0,0,0
+89,HRAD,novembro,2021,I,0 a 5,"9,3",9,0,"0,84"
+90,HRAD,novembro,2021,II,6 a 10,"55,9",2,0,"1,12"
+91,HRAD,novembro,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+92,HRAD,novembro,2021,IV,> 15,100,0,0,0
+93,HRAD,dezembro,2021,I,0 a 5,"9,3",7,1,"0,65"
+94,HRAD,dezembro,2021,II,6 a 10,"55,9",0,0,0
+95,HRAD,dezembro,2021,III,11 a 5 ,"73,1",0,0,0
+96,HRAD,dezembro,2021,IV,> 15,100,0,0,0
+97,MOV,janeiro,2021,I,0 a 5,"9,3",4,0,"0,37"
+98,MOV,janeiro,2021,II,6 a 10,"55,9",0,0,0
+99,MOV,janeiro,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+100,MOV,janeiro,2021,IV,> 15,100,0,0,0
+101,MOV,fevereiro,2021,I,0 a 5,"9,3",3,0,"0,28"
+102,MOV,fevereiro,2021,II,6 a 10,"55,9",1,0,"0,56"
+103,MOV,fevereiro,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+104,MOV,fevereiro,2021,IV,> 15,100,1,1,1
+105,MOV,março,2021,I,0 a 5,"9,3",0,0,0
+106,MOV,março,2021,II,6 a 10,"55,9",1,0,"0,56"
+107,MOV,março,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+108,MOV,março,2021,IV,> 15,100,0,0,0
+109,MOV,abril,2021,I,0 a 5,"9,3",0,0,0
+110,MOV,abril,2021,II,6 a 10,"55,9",2,0,"1,12"
+111,MOV,abril,2021,III,11 a 5 ,"73,1",2,0,"1,46"
+112,MOV,abril,2021,IV,> 15,100,0,0,0
+113,MOV,maio,2021,I,0 a 5,"9,3",0,0,0
+114,MOV,maio,2021,II,6 a 10,"55,9",2,0,"1,12"
+115,MOV,maio,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+116,MOV,maio,2021,IV,> 15,100,0,0,0
+117,MOV,junho,2021,I,0 a 5,"9,3",1,0,"0,09"
+118,MOV,junho,2021,II,6 a 10,"55,9",0,0,0
+119,MOV,junho,2021,III,11 a 5 ,"73,1",0,0,0
+120,MOV,junho,2021,IV,> 15,100,0,0,0
+121,MOV,julho,2021,I,0 a 5,"9,3",0,0,0
+122,MOV,julho,2021,II,6 a 10,"55,9",2,1,"1,12"
+123,MOV,julho,2021,III,11 a 5 ,"73,1",3,3,"2,19"
+124,MOV,julho,2021,IV,> 15,100,3,3,3
+125,MOV,agosto,2021,I,0 a 5,"9,3",0,0,0
+126,MOV,agosto,2021,II,6 a 10,"55,9",4,1,"2,24"
+127,MOV,agosto,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+128,MOV,agosto,2021,IV,> 15,100,0,0,0
+129,MOV,setembro,2021,I,0 a 5,"9,3",2,0,"0,19"
+130,MOV,setembro,2021,II,6 a 10,"55,9",1,0,"0,56"
+131,MOV,setembro,2021,III,11 a 5 ,"73,1",2,1,"1,46"
+132,MOV,setembro,2021,IV,> 15,100,0,0,0
+133,MOV,outubro,2021,I,0 a 5,"9,3",3,0,"0,28"
+134,MOV,outubro,2021,II,6 a 10,"55,9",2,0,"1,12"
+135,MOV,outubro,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+136,MOV,outubro,2021,IV,> 15,100,0,0,0
+137,MOV,novembro,2021,I,0 a 5,"9,3",1,0,"0,09"
+138,MOV,novembro,2021,II,6 a 10,"55,9",1,0,"0,56"
+139,MOV,novembro,2021,III,11 a 5 ,"73,1",4,3,"2,92"
+140,MOV,novembro,2021,IV,> 15,100,2,2,2
+141,MOV,dezembro,2021,I,0 a 5,"9,3",1,0,"0,09"
+142,MOV,dezembro,2021,II,6 a 10,"55,9",0,0,0
+143,MOV,dezembro,2021,III,11 a 5 ,"73,1",0,0,0
+144,MOV,dezembro,2021,IV,> 15,100,0,0,0
+145,HRJP,janeiro,2021,I,0 a 5,"9,3",1,0,"0,09"
+146,HRJP,janeiro,2021,II,6 a 10,"55,9",1,0,"0,56"
+147,HRJP,janeiro,2021,III,11 a 5 ,"73,1",1,1,"0,73"
+148,HRJP,janeiro,2021,IV,> 15,100,0,0,0
+149,HRJP,fevereiro,2021,I,0 a 5,"9,3",0,0,0
+150,HRJP,fevereiro,2021,II,6 a 10,"55,9",1,0,"0,56"
+151,HRJP,fevereiro,2021,III,11 a 5 ,"73,1",0,0,0
+152,HRJP,fevereiro,2021,IV,> 15,100,2,2,2
+153,HRJP,março,2021,I,0 a 5,"9,3",0,0,0
+154,HRJP,março,2021,II,6 a 10,"55,9",1,0,"0,56"
+155,HRJP,março,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+156,HRJP,março,2021,IV,> 15,100,0,0,0
+157,HRJP,abril,2021,I,0 a 5,"9,3",3,0,"0,28"
+158,HRJP,abril,2021,II,6 a 10,"55,9",0,0,0
+159,HRJP,abril,2021,III,11 a 5 ,"73,1",0,0,0
+160,HRJP,abril,2021,IV,> 15,100,0,0,0
+161,HRJP,maio,2021,I,0 a 5,"9,3",3,1,"0,28"
+162,HRJP,maio,2021,II,6 a 10,"55,9",1,0,"0,56"
+163,HRJP,maio,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+164,HRJP,maio,2021,IV,> 15,100,0,0,0
+165,HRJP,junho,2021,I,0 a 5,"9,3",1,1,"0,09"
+166,HRJP,junho,2021,II,6 a 10,"55,9",3,0,"1,68"
+167,HRJP,junho,2021,III,11 a 5 ,"73,1",0,0,0
+168,HRJP,junho,2021,IV,> 15,100,0,0,0
+169,HRJP,julho,2021,I,0 a 5,"9,3",2,0,"0,19"
+170,HRJP,julho,2021,II,6 a 10,"55,9",1,0,"0,56"
+171,HRJP,julho,2021,III,11 a 5 ,"73,1",0,0,0
+172,HRJP,julho,2021,IV,> 15,100,1,1,1
+173,HRJP,agosto,2021,I,0 a 5,"9,3",1,0,"0,09"
+174,HRJP,agosto,2021,II,6 a 10,"55,9",3,0,"1,68"
+175,HRJP,agosto,2021,III,11 a 5 ,"73,1",1,0,"0,73"
+176,HRJP,agosto,2021,IV,> 15,100,0,0,0
+177,HRJP,setembro,2021,I,0 a 5,"9,3",1,0,"0,09"
+178,HRJP,setembro,2021,II,6 a 10,"55,9",0,0,0
+179,HRJP,setembro,2021,III,11 a 5 ,"73,1",0,0,0
+180,HRJP,setembro,2021,IV,> 15,100,0,0,0
+181,HRJP,outubro,2021,I,0 a 5,"9,3",1,0,"0,09"
+182,HRJP,outubro,2021,II,6 a 10,"55,9",0,0,0
+183,HRJP,outubro,2021,III,11 a 5 ,"73,1",0,0,0
+184,HRJP,outubro,2021,IV,> 15,100,0,0,0
+185,HRJP,novembro,2021,I,0 a 5,"9,3",2,0,"0,19"
+186,HRJP,novembro,2021,II,6 a 10,"55,9",4,1,"2,24"
+187,HRJP,novembro,2021,III,11 a 5 ,"73,1",0,0,0
+188,HRJP,novembro,2021,IV,> 15,100,0,0,0
+189,HRJP,dezembro,2021,I,0 a 5,"9,3",0,0,0
+190,HRJP,dezembro,2021,II,6 a 10,"55,9",1,0,"0,56"
+191,HRJP,dezembro,2021,III,11 a 5 ,"73,1",2,1,"1,46"
+192,HRJP,dezembro,2021,IV,> 15,100,0,0,0
